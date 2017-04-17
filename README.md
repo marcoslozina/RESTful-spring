@@ -11,6 +11,6 @@ com o framework Spring 4 aplicando os seguintes conceitos:
 *) Manipulação de exceções
 *) Cache
 *) Autenticação básica com Spring Security
-*) Criação de cliente Java e JavaScript
+*) Criação de cliente Java 
 *) Criação de cliente JavaScript
 
